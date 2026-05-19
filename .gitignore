@@ -1,0 +1,12 @@
+.venv/
+
+ejs_lisbon_stp_ChemicalPotentialsMonteCarloSimulations.jar
+enunciat_simulacions.pdf
+imatges.zip
+LAT_main.tex
+LAT_styles.sty
+resultados.csv
+script.py
+.vscode/
+out/
+graph_points/
